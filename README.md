@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Flutter, Dart, C++**
 
-- 📫Ask me about **muhammadjondev348@gmail.com**
-
 - ⚡ Fun fact **I am cheerful**
 
 <h3 align="left">Connect with me:</h3>
